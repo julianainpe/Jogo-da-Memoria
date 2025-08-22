@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/logo.png" alt="Cabeçalho do Jogo da Memória" width="200">
+  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/logo.png" alt="Cabeçalho do Jogo da Memória" width="300">
 </p>
 
 <!-- Título centralizado, em negrito e na cor verde -->
@@ -18,7 +18,7 @@ Este projeto apresenta uma versão online, mais simples e para dispositivos móv
 para que os visitantes do **Instituto Nacional da Mata Atlântica (INMA)** possam conhecer alguns dos benefícios oferecidos pela Mata Atlântica. 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/versao_fisica.jpeg" width="150">
+  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/versao_fisica.jpeg" width="400">
 </p>
 
 A versão online foi realizada para rodar facilmente no GitHub Pages e pode ser adaptada para outros temas aos quais o INMA tem interesse em apresentar para a comunidade em geral e em eventos científicos sobre a Mata Atlântica. 
@@ -31,7 +31,7 @@ São classificados em benefícios de: provisão, regulação, suporte e culturai
 **Acesse a versão online do jogo aqui**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/QRCODE.png" alt="QR Code" width="2000">
+  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/QRCODE.png" alt="QR Code" width="400">
 </p>
 
 ## Funcionalidades do jogo
