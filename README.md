@@ -3,15 +3,11 @@
   <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/GEODABI_logo.png" width="100" align="right">
 </p>
 
-<!-- Título centralizado, em negrito e na cor verde -->
-<h1 align="center">
-  <span style="color: #2e7d32;"><strong>Jogo da Memória</strong></span>
-</h1>
+<h1 align="center"><strong>Jogo da Memória</strong></h1>
 
 <p align="center">
   <strong>Benefícios da Natureza para as Pessoas</strong>
 </p>
-
 ---
 
 ## Objetivo
