@@ -28,7 +28,7 @@ O que são os **Benefícios providos pela Natureza?**
 São os bens e serviços que os ecossistemas fornecem aos seres humanos. 
 São classificados em benefícios de: provisão, regulação, suporte e culturais. 
 
-**Acesse a versão online do jogo aqui**
+**Acesse a versão online do jogo aqui:**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/QRCODE.png" alt="QR Code" width="300">
