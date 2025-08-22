@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/logo.png" alt="Logo 1" width="300">
-  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/GEODABI.png" alt="Logo 2" width="300">
+  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/GEODABI.png" alt="Logo 2" width="100">
 </p>
 
 <!-- Título centralizado, em negrito e na cor verde -->
