@@ -49,6 +49,6 @@ São classificados em benefícios de: provisão, regulação, suporte e culturai
 - *Leonardo Guimarães* (INMA - organização)
 - *Chaim José Lasmar* (INMA - conteúdo científico e seleção de imagens)
 - *Juliana Silveira* (INMA/GEODABI - design, conteúdo científico e seleção de imagens)
-- *Taís Moreira* (INMA/GEODABI - design, conteúdo científico e seleção de images)
-- *Talitha Mayumi Francisco* (INMA - conteúdo científico e seleção de images)
+- *Taís Moreira* (INMA/GEODABI - design, conteúdo científico e seleção de imagens)
+- *Talitha Mayumi Francisco* (INMA - conteúdo científico e seleção de imagens)
 - *Joelcio Freitas* (INMA - design e arte final)
