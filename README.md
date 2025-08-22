@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/logo.png" width="200">
-  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/GEODABI_logo.png" width="150" align="right">
+  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/GEODABI_logo.png" width="100" align="right">
 </p>
 
 
@@ -16,16 +16,13 @@
 ---
 
 ## Objetivo
-Este projeto apresenta uma versão online, mais simples e para dispositivos móveis do **Jogo da memória - Benefícios da Natureza para as pessoas** em HTML/CSS/JavaScript. A versão original deste jogo é física e foi desenvolvida
-para que os visitantes do **Instituto Nacional da Mata Atlântica (INMA)** possam conhecer alguns dos benefícios oferecidos pela Mata Atlântica. 
+Este projeto apresenta uma versão online, mais simples e para dispositivos móveis do **Jogo da memória - Benefícios da Natureza para as pessoas** em HTML/CSS/JavaScript, uma iniciativa do Labortário de Geoprocessamento, Sensoriamento Remoto e Análise de dados de Biodiversidade (GEODABI) do INMA. A versão original deste jogo é física e foi desenvolvida para que os visitantes do **Instituto Nacional da Mata Atlântica (INMA)** possam conhecer alguns dos benefícios oferecidos pela Mata Atlântica. 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/versao_fisica.jpeg" width="700">
 </p>
 
-A versão online foi realizada para rodar facilmente no GitHub Pages e pode ser adaptada para outros temas aos quais o INMA tem interesse em apresentar para a comunidade em geral e em eventos científicos sobre a Mata Atlântica. A verão
-
-Este jogo visa especificamente divulgar informações sobre os benefícios providos pela natureza, os quais também são conhecidos como serviços ecossistêmicos.
+A versão online foi realizada para rodar facilmente no GitHub Pages e pode ser adaptada para outros temas aos quais o INMA tem interesse em apresentar para a comunidade em geral e em eventos científicos sobre a Mata Atlântica. Este jogo visa especificamente divulgar informações sobre os benefícios providos pela natureza, os quais também são conhecidos como serviços ecossistêmicos.
 
 O que são os **Benefícios providos pela Natureza?**
 São os bens e serviços que os ecossistemas fornecem aos seres humanos. 
