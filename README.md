@@ -5,10 +5,8 @@
 
 <h1 align="center"><strong>Jogo da Memória</strong></h1>
 
-<p align="center">
-  <strong>Benefícios da Natureza para as Pessoas</strong>
+<p align="center"><strong>Benefícios da Natureza para as Pessoas</strong>
 </p>
----
 
 ## Objetivo
 Este projeto apresenta uma versão online, mais simples e para dispositivos móveis do **Jogo da memória - Benefícios da Natureza para as pessoas** em HTML/CSS/JavaScript, uma iniciativa do Laboratório de Geoprocessamento, Sensoriamento Remoto e Análise de dados de Biodiversidade **(GEODABI)** do INMA. A versão original deste jogo é física e foi desenvolvida para que os visitantes do **Instituto Nacional da Mata Atlântica (INMA)** possam conhecer alguns dos benefícios oferecidos pela Mata Atlântica. 
