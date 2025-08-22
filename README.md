@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/GEODABI_logo.png" width="100" align="right">
 </p>
 
-
 <!-- Título centralizado, em negrito e na cor verde -->
 <h1 align="center">
   <span style="color: #2e7d32;"><strong>Jogo da Memória</strong></span>
@@ -16,7 +15,7 @@
 ---
 
 ## Objetivo
-Este projeto apresenta uma versão online, mais simples e para dispositivos móveis do **Jogo da memória - Benefícios da Natureza para as pessoas** em HTML/CSS/JavaScript, uma iniciativa do Labortário de Geoprocessamento, Sensoriamento Remoto e Análise de dados de Biodiversidade (GEODABI) do INMA. A versão original deste jogo é física e foi desenvolvida para que os visitantes do **Instituto Nacional da Mata Atlântica (INMA)** possam conhecer alguns dos benefícios oferecidos pela Mata Atlântica. 
+Este projeto apresenta uma versão online, mais simples e para dispositivos móveis do **Jogo da memória - Benefícios da Natureza para as pessoas** em HTML/CSS/JavaScript, uma iniciativa do Laboratório de Geoprocessamento, Sensoriamento Remoto e Análise de dados de Biodiversidade **(GEODABI)** do INMA. A versão original deste jogo é física e foi desenvolvida para que os visitantes do **Instituto Nacional da Mata Atlântica (INMA)** possam conhecer alguns dos benefícios oferecidos pela Mata Atlântica. 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/versao_fisica.jpeg" width="700">
