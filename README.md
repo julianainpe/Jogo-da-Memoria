@@ -4,11 +4,13 @@
   <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/GEODABI_logo.png" width="100" align="right">
 </p>
 
+<!-- Força o texto começar abaixo das imagens -->
 <br clear="all"/>
 
 <!-- Título centralizado -->
 <h1 align="center"><strong>Jogo da Memória</strong></h1>
 
+<!-- Subtítulo centralizado -->
 <p align="center"><strong>Benefícios da Natureza para as Pessoas</strong></p>
 
 ## Objetivo
