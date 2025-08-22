@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/logo.png" alt="Logo 1" width="300">
-  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/GEODABI.png" alt="Logo 2" width="100">
-</p>
+| Esquerda | Direita |
+|----------|----------|
+| <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/logo.png" width="250"> | <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/GEODABI.png" width="250"> |
+
 
 <!-- Título centralizado, em negrito e na cor verde -->
 <h1 align="center">
