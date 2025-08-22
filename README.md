@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/logo.png" width="200">
-  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/GEODABI.png" width="200" align="right">
+  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/GEODABI.png" width="150" align="right">
 </p>
 
 
