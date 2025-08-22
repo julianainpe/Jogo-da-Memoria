@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/logo.png" width="200">
-  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/GEODABI.png" width="150" align="right">
+  <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/GEODABI_logo.png" width="150" align="right">
 </p>
 
 
@@ -23,7 +23,8 @@ para que os visitantes do **Instituto Nacional da Mata Atlântica (INMA)** possa
   <img src="https://raw.githubusercontent.com/julianainpe/Jogo-da-Memoria/main/versao_fisica.jpeg" width="700">
 </p>
 
-A versão online foi realizada para rodar facilmente no GitHub Pages e pode ser adaptada para outros temas aos quais o INMA tem interesse em apresentar para a comunidade em geral e em eventos científicos sobre a Mata Atlântica. 
+A versão online foi realizada para rodar facilmente no GitHub Pages e pode ser adaptada para outros temas aos quais o INMA tem interesse em apresentar para a comunidade em geral e em eventos científicos sobre a Mata Atlântica. A verão
+
 Este jogo visa especificamente divulgar informações sobre os benefícios providos pela natureza, os quais também são conhecidos como serviços ecossistêmicos.
 
 O que são os **Benefícios providos pela Natureza?**
@@ -45,14 +46,14 @@ São classificados em benefícios de: provisão, regulação, suporte e culturai
 
 ## Créditos
 **Versão online**
-- *Juliana Silveira* (INMA - organização, código e design)
+- *Juliana Silveira* (INMA/GEODABI - organização, código e design)
 - *Joelcio Freitas* (INMA - arte final)
-- *Taís Moreira* (INMA - design)
+- *Taís Moreira* (INMA/GEODABI - design)
   
 **Versão física**
 - *Leonardo Guimarães* (INMA - organização)
 - *Chaim José Lasmar* (INMA - conteúdo científico e seleção de imagens)
-- *Juliana Silveira* (INMA - design, conteúdo científico e seleção de imagens)
-- *Taís Moreira* (INMA - design, conteúdo científico e seleção de images)
+- *Juliana Silveira* (INMA/GEODABI - design, conteúdo científico e seleção de imagens)
+- *Taís Moreira* (INMA/GEODABI - design, conteúdo científico e seleção de images)
 - *Talitha Mayumi Francisco* (INMA - conteúdo científico e seleção de images)
 - *Joelcio Freitas* (INMA - design e arte final)
