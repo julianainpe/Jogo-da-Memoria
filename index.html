@@ -46,20 +46,8 @@
       gap: var(--gap);
       width: 100%;
       max-width: 820px;
-      grid-template-columns: repeat(3, 1fr); /* 3 colunas padrão */
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
       margin: 20px 0;
-    }
-
-    /* Responsividade */
-    @media (max-width: 800px) {
-      .board {
-        grid-template-columns: repeat(2, 1fr); /* 2 colunas em tablets */
-      }
-    }
-    @media (max-width: 500px) {
-      .board {
-        grid-template-columns: 1fr; /* 1 coluna em celulares */
-      }
     }
 
     .card {
